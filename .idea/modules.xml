@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cadlabs.iml" filepath="$PROJECT_DIR$/cadlabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fct-nova-high-performance-computing-labs-part-2.iml" filepath="$PROJECT_DIR$/.idea/fct-nova-high-performance-computing-labs-part-2.iml" />
     </modules>
   </component>
 </project>
