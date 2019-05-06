@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.roaringbitmap:RoaringBitmap:0.7.45">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.roaringbitmap/RoaringBitmap/0.7.45/cf97912280a8bc6f740d0e2c15b8acdfeb683ac3/RoaringBitmap-0.7.45.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.roaringbitmap/RoaringBitmap/0.7.45/78c66666a3955858a5ca9f4b884b14f2b4529229/RoaringBitmap-0.7.45-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

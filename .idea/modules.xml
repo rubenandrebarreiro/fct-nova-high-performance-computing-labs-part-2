@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/fct-nova-high-performance-computing-labs-part-2.iml" filepath="$PROJECT_DIR$/.idea/fct-nova-high-performance-computing-labs-part-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hpc-labs-part-2.iml" filepath="$PROJECT_DIR$/.idea/modules/hpc-labs-part-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hpc-labs-part-2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hpc-labs-part-2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hpc-labs-part-2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hpc-labs-part-2.test.iml" />
     </modules>
   </component>
 </project>

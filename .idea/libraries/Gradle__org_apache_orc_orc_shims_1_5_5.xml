@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.orc:orc-shims:1.5.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.orc/orc-shims/1.5.5/6a639c228ab66601398fd2d94d441d4c6a9a7c8e/orc-shims-1.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.orc/orc-shims/1.5.5/5d1df31fc8158246d409f1a5b06113a027efdcab/orc-shims-1.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

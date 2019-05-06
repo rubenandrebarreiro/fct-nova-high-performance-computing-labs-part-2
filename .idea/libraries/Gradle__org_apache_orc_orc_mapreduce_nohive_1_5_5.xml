@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.orc:orc-mapreduce:nohive:1.5.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.orc/orc-mapreduce/1.5.5/fc8c58a4bd3a3523e42eec3eee61810e92ab6fe4/orc-mapreduce-1.5.5-nohive.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.orc/orc-mapreduce/1.5.5/42115ac382937d6ca7680cda8133c25108c7d3ab/orc-mapreduce-1.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
