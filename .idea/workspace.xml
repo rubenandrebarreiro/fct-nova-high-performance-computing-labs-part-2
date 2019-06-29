@@ -197,8 +197,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Some minor changes" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cadlabs/WordCount.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/WordCount.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hpc_labs_part_2/WordCount.java" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="49">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
